@@ -7,7 +7,7 @@
   "eligibilityInfo": 
     { "eligibilityCycle": "1", 
      "eligibilityStatus": "1", 
-     "IneligibilityReasons": [
+     "ineligibilityReasons": [
       {
         "ineligibilityCode": "1001"
       },
@@ -20,7 +20,21 @@
     ] 
     }
   ,
-  "profile": {
-    "name": "typicode"
+  "paymentInfo": {
+  "paymentNumber": "76321",
+  "paymentDate": "20190412",
+  "amountPaid": "1000",
+  "totalRefunds": "2000",
+  "paymentCycle": "2",
+  "paymentStatus": "مدفوعة",
+  "paymentReferenceNumber": "190485747",
+  "monthlySupportAmount": "1100",
+  "returnedAmount": "2100",
+  "rejectedReturnedAmount": "1000",
+  "susbendAmount": "120",
+  "rejectedAmount": "700",
+  "numberOfRefundPayment": "2",
+  "numberOfDeductionDays": "20",
+  "totalDeductionAmount": "100"
   }
 }
