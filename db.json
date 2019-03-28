@@ -1,11 +1,16 @@
 {
-  "eligibilityCycle": "1",
-  "eligibilityStatus": "مستحق",
-  "IneligibilityReasons": [
-    {
-      "ineligibilityCode": 1001,
-      "ineligibilityReasonAr": "وثائق المتقدم لم تتطابق مع سجلات الاحوال المدنية",
-      "ineligibilityReasonEn": "Dear Citizen, the inserted id is not matched with the result of NIC please call the CSA number ****"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "my-json-server", "author": "typicode" }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" },
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
