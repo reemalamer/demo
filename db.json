@@ -21,20 +21,17 @@
     }
   ,
   "paymentInfo": {
-  "paymentNumber": "76321",
+  "applicantPaymantNumber": "76321",
   "paymentDate": "20190412",
-  "amountPaid": "1000",
-  "totalRefunds": "2000",
+  "accumulatedPaymant": "1000",
   "paymentCycle": "2",
   "paymentStatus": "مدفوعة",
   "paymentReferenceNumber": "190485747",
-  "monthlySupportAmount": "1100",
-  "returnedAmount": "2100",
-  "rejectedReturnedAmount": "1000",
-  "susbendAmount": "120",
-  "rejectedAmount": "700",
-  "numberOfRefundPayment": "2",
-  "numberOfDeductionDays": "20",
-  "totalDeductionAmount": "100"
+  "currentMonthPayment": "1100",
+  "rejectedPaymnet": "2100",
+  "paymentRefund": "1000",
+  "rejectedRefunds": "120",
+  "pendingPayments": "700",
+  "NumberOfRefundCycles": "2"
   }
 }
