@@ -35,7 +35,7 @@
   "NumberOfRefundCycles": "2"
   }
 },
-"mewa_mock":{
+"mewa_mock":
   {
     "Message": "تمت العملية بنجاح",
     "Response": "200",
@@ -1884,4 +1884,4 @@
         }
     ]
 }
-}
+
