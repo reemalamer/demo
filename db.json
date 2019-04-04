@@ -1,21 +1,37 @@
 
 {
   "citizenInfo": {
-     "nationality": "113", "socialStatus": "1", "lifeStatus":"y", "gender":"m" 
+     "nationality": "113", 
+    "socialStatus": "1", 
+    "lifeStatus":"y", 
+    "gender":"m",
+    "employmentPublic": "0",
+    "employmentPrivate": "0",
+    "employmentMilitary": "0"
   }
   ,
-  "eligibilityInfo": 
-    { "eligibilityCycle": "1", 
+  "eligibilityInfo": { 
+     "eligibilityCycle": "1", 
      "eligibilityStatus": "1", 
+     "eligibilityDate": "2019-04-02 15:52:32.747",
      "ineligibilityReasons": [
       {
-        "ineligibilityCode": "1001"
+            "eligibilityCycle": "1",
+            "ineligibilityReasonCode": "1002",
+            "ineligibilityReasonDesc": "Dear Citizen, Our result shows that you are not Saudi please call the CSA number ****",
+            "ineligibilityReasonAr": "تشير سجلات الاحوال المدنية ان المتقدم الرئيسي غير سعودي"
       },
       {
-        "ineligibilityCode": "1002"
+        "eligibilityCycle": "1",
+            "ineligibilityReasonCode": "1001",
+            "ineligibilityReasonDesc": "Dear Citizen, the inserted id is not matched with the result of NIC please call the CSA number ****",
+            "ineligibilityReasonAr": "وثائق المتقدم لم تتطابق مع سجلات الاحوال المدنية"
       },
       {
-        "ineligibilityCode": "1003"
+        "eligibilityCycle": "1",
+            "ineligibilityReasonCode": "1003",
+            "ineligibilityReasonDesc": "Dear Citizen, our result shows that you are not alive please call the CSA number ****",
+            "ineligibilityReasonAr": "تشير سجلات الاحوال المدنية ان المتقدم الرئيسي متوفى"
       }
     ] 
     }
