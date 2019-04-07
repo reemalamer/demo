@@ -196,8 +196,9 @@
                         {
                             "ANIMAL_COUNT": 20,
                             "ANIMAL_TYPE": "إبل"
-                        }],
-              
+                        }]
+              }
+            ],
            "REQUEST_DATE": "2019-02-03 9:11:50 AM",
             "REQUEST_ID": "34",
             "STATUS": "رفض الطلب",
