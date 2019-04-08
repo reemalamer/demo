@@ -4,7 +4,7 @@
     "socialStatus": "1", 
     "lifeStatus":"y", 
     "gender":"m",
-    "employmentPublic": "0",
+    "employmentPublic": "1",
     "employmentPrivate": "0",
     "employmentMilitary": "0"
   }
