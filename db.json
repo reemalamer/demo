@@ -57,6 +57,15 @@
     "numberOfDeductionDays": "0.00",
     "totalDeductionAmount": "0.00"
   },
+  "liveStock": {
+    "nin": "1011763149",
+    "applicationId": "1011763149",
+    "eligibilityCycle": "1",
+    "sheepCount": "200",
+    "cowCount": "27",
+    "camelCount": "0",
+    "goatCount": "15"
+  },
   "mewa_mock":{
     "Message": "تمت العملية بنجاح",
     "Response": "200",
