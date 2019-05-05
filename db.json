@@ -36,18 +36,26 @@
     }
   ,
   "paymentInfo": {
-  "applicantPaymantNumber": "76321",
-  "paymentDate": "20190412",
-  "accumulatedPaymant": "1000",
-  "paymentCycle": "2",
-  "paymentStatus": "مدفوعة",
-  "paymentReferenceNumber": "190485747",
-  "currentMonthPayment": "1100",
-  "rejectedPaymnet": "2100",
-  "paymentRefund": "1000",
-  "rejectedRefunds": "120",
-  "pendingPayments": "700",
-  "NumberOfRefundCycles": "2"
+    "applicantPaymentNumber": "1",
+    "paymentDate": "2019-05-05 00:00:00.0",
+    "accumulatedPayment": "742.00",
+    "paymentCycle": "1",
+    "paymentStatus": "مدفوعة",
+    "paymentReferenceNumber": "1011130001310041901",
+    "currentMonthPayment": "742.00",
+    "rejectedPayment": "798.0",
+    "paymentRefund": "877",
+    "rejectedRefunds": "124",
+    "pendingPayments": "442",
+    "numberOfRefundCycles": "3"
+  },
+   "ibanInfo": {
+    "iban": "125354356547657",
+    "ibanStatus": "valid"
+  },
+  "residencyInfo": {
+    "numberOfDeductionDays": "0.00",
+    "totalDeductionAmount": "0.00"
   },
   "mewa_mock":{
     "Message": "تمت العملية بنجاح",
