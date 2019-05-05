@@ -49,14 +49,6 @@
     "pendingPayments": "442",
     "numberOfRefundCycles": "3"
   },
-   "ibanInfo": {
-    "iban": "125354356547657",
-    "ibanStatus": "valid"
-  },
-  "residencyInfo": {
-    "numberOfDeductionDays": "0.00",
-    "totalDeductionAmount": "0.00"
-  },
   "liveStock": {
     "nin": "1011763149",
     "applicationId": "1011763149",
