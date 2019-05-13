@@ -11,7 +11,7 @@
   ,
   "eligibilityInfo": { 
      "eligibilityCycle": "1", 
-     "eligibilityStatus": "1", 
+     "eligibilityStatus": "0", 
      "eligibilityDate": "20190430",
      "ineligibilityReasons": [
       {
