@@ -9,7 +9,7 @@
     "employmentMilitary": "0"
   }
   ,
-  "eligibilityInfo": { 
+  "eligibilityInfo": [{ 
      "eligibilityCycle": "1", 
      "eligibilityStatus": "0", 
      "eligibilityDate": "20190430",
@@ -33,7 +33,19 @@
             "ineligibilityReasonAr": "تشير سجلات الاحوال المدنية ان المتقدم الرئيسي متوفى"
       }
     ] 
-    }
+    },
+    { 
+     "eligibilityCycle": "2", 
+     "eligibilityStatus": "1", 
+     "eligibilityDate": "20190430",
+     "ineligibilityReasons": null
+    },
+    { 
+     "eligibilityCycle": "3", 
+     "eligibilityStatus": "1", 
+     "eligibilityDate": "20190330",
+     "ineligibilityReasons": null
+    }]
   ,
   "paymentInfo": {
     "applicantPaymentNumber": "1",
