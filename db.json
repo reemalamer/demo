@@ -47,7 +47,7 @@
      "ineligibilityReasons": null
     }]
   ,
-  "paymentInfo": {
+  "paymentInfo": [ {
     "applicantPaymentNumber": "1",
     "paymentDate": "2019-05-05 00:00:00.0",
     "accumulatedPayment": "742.00",
@@ -61,6 +61,20 @@
     "pendingPayments": "442",
     "numberOfRefundCycles": "3"
   },
+                 {
+    "applicantPaymentNumber": "2",
+    "paymentDate": "2019-05-25 00:00:00.0",
+    "accumulatedPayment": "1742.00",
+    "paymentCycle": "2",
+    "paymentStatus": "مدفوعة",
+    "paymentReferenceNumber": "1011130001310041933",
+    "currentMonthPayment": "442.00",
+    "rejectedPayment": "598.0",
+    "paymentRefund": "677",
+    "rejectedRefunds": "224",
+    "pendingPayments": "542",
+    "numberOfRefundCycles": "1"
+  }],
   "liveStock": {
     "nin": "1011763149",
     "applicationId": "1011763149",
